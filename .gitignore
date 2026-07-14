@@ -43,5 +43,6 @@ Thumbs.db
 .coverage
 htmlcov/
 
-# Results (caso gere arquivos automaticamente)
-results/
+# Generated files
+gdps.json
+World_Economies.db
